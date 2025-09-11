@@ -1,13 +1,14 @@
-# Artificial Intelligence Codes 
+# Artificial Intelligence Codes
 
-I've used google colab to develop this codes.
+here are some codes that i developed using google colab
+
  <br>
 
 ## Reference
 
  - [Alura - Machine Learning: classificação com SKLearn](https://www.alura.com.br/?srsltid=AfmBOoo3vHt8Q6zNf-qOj7UVdPqTF-T0T9myHWKlsROQmP42TF0w024f)
 
-## Used Plataform 
+## Plataform used
 <img
 align="left" 
 alt="googlecolab" 
