@@ -1,7 +1,12 @@
 # Artificial Intelligence Codes 
 
-I've used google collab to develop this codes.
+I've used google colab to develop this codes.
 
+align="left" 
+alt="googlecolab" 
+title="googlecolab"
+width="30px" 
+style="padding-right: 10px;" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"/>
 
 ## Referência
