@@ -1,15 +1,6 @@
 # Artificial Intelligence Codes 
 
 I've used google colab to develop this codes.
-
-<img
-align="left" 
-alt="googlecolab" 
-title="googlecolab"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg"
- />
  <br>
 
 ## Referência
