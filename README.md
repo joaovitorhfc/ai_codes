@@ -1,9 +1,5 @@
 # Artificial Intelligence Codes
-
-here are some codes that i developed using google colab
-
- <br>
-
+Here are some codes that i developed using google colab
 ## Reference
 
  - [Alura - Machine Learning: classificação com SKLearn](https://www.alura.com.br/?srsltid=AfmBOoo3vHt8Q6zNf-qOj7UVdPqTF-T0T9myHWKlsROQmP42TF0w024f)
